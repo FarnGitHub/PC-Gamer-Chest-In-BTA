@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "pc_gamer_chest",
+  "version": "${version}",
+
+  "name": "PC Gamer Chest In BTA",
+  "description": "This mod add PC Gamer Chest from Minecraft PC Gamer Demo.",
+  "authors": [
+    "farnfarn02"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+        "farn.pcGamerChest.Main"
+    ]
+  },
+  "mixins": [
+      "PCGamerChest.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3"
+  },
+  "suggests": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "farn.pcGamerChest.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "PlayerControllerSPMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+  }
+}
