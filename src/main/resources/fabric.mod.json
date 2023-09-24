@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "pc_gamer_chest",
-  "version": "${version}",
+  "version": "1.1",
 
   "name": "PC Gamer Chest In BTA",
-  "description": "This mod add PC Gamer Chest from Minecraft PC Gamer Demo.",
+  "description": "This mod add few thing from Minecraft PC Gamer Demo.",
   "authors": [
     "farnfarn02"
   ],
