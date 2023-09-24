@@ -12,3 +12,6 @@ This mod add few thing from [Minecraft PC Gamer Demo](https://minecraft.fandom.c
 All of the features only generated in new world
 
 this is a fork of https://github.com/Turnip-Labs/bta-example-mod
+
+![mod screenshot](https://github.com/FarnGitHub/PC-Gamer-Chest-In-BTA/assets/93525542/4f4bec07-c668-49a5-b1f7-bb7798213c53)
+
