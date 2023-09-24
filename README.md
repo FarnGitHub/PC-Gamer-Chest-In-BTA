@@ -2,7 +2,7 @@
 
 **Author**: farnfarn02
 
-**Requirement** : [Babric instance of BTA](https://github.com/Turnip-Labs/babric-instance-repo)
+**Requirement** : [Babric instance of BTA](https://github.com/Turnip-Labs/babric-instance-repo) (1.7.7.0_02)
 
 This mod add few thing from [Minecraft PC Gamer Demo](https://minecraft.fandom.com/wiki/PC_Gamer_Demo).
 
